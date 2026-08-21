@@ -1,9 +1,0 @@
-Read me
-
-- Table of contents
-- Definitions
-- Data Sources
-	Google Analytics
-	HubSpot - Contacts, Companies, Deals
-
-	
